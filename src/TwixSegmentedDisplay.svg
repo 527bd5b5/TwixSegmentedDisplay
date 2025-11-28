@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="1024"
+   viewBox="0 0 768 1024"
+   version="1.1"
+   id="twix-segmented-display"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="TwixSegmentedDisplay.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="382"
+     inkscape:cy="510"
+     inkscape:window-width="1918"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="16"
+       spacingy="16"
+       empcolor="#888888"
+       empopacity="0.1"
+       color="#888888"
+       opacity="0.1"
+       empspacing="4"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <font
+       horiz-adv-x="768"
+       id="TwixSegmentedDisplay-Normal"
+       inkscape:label="TwixSegmentedDisplay-Normal"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         ascent="0"
+         cap-height="1024"
+         x-height="0"
+         descent="0"
+         id="twix-segmented-display-normal"
+         font-family="TwixSegmentedDisplay" />
+      <missing-glyph
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 80,-120 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 h -64 z m 128,0 120,-120 V 720 H 552 L 432,840 v 48 z m 136,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 80,-120 120,120 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 128,0 120,-120 V 88 H 288 L 168,208 v 48 z m 136,0 h 64 V 88 L 384,56 352,88 Z m 80,-120 120,120 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z"
+         id="0x0000-null-normal" />
+      <glyph
+         glyph-name="space"
+         unicode=" "
+         id="0x0020-space-normal"
+         d="M 0,0" />
+      <glyph
+         glyph-name="exclamation-mark"
+         unicode="!"
+         id="0x0021-exclamation-mark-normal"
+         d="m 352,888 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-448 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="quotation-mark"
+         unicode="&quot;"
+         id="0x0022-quotation-mark-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z" />
+      <glyph
+         glyph-name="number-sign"
+         unicode="#"
+         id="0x0023-number-sign-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="dollar-sign"
+         unicode="$"
+         id="0x0024-dollar-sign-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 h -64 z m 128,0 120,-120 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z m 136,0 h 64 V 88 L 384,56 352,88 Z m 80,-120 120,120 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="percent-sign"
+         unicode="%"
+         id="0x0025-percent-sign-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 80,-120 120,120 h 48 V 840 L 216,720 h -48 z m 448,120 32,32 32,-32 V 720 H 616 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="ampersand"
+         unicode="&amp;"
+         id="0x0026-ampersand-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 H 352 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 80,-120 120,120 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="apostrophe"
+         unicode="'"
+         id="0x0027-apostrophe-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 0,-200 120,120 h 48 V 840 L 216,720 h -48 z" />
+      <glyph
+         glyph-name="left-parenthesis"
+         unicode="("
+         id="0x0028-left-parenthesis-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z" />
+      <glyph
+         glyph-name="right-parenthesis"
+         unicode=")"
+         id="0x0029-right-parenthesis-normal"
+         d="M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 616,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 616 Z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="asterisk"
+         unicode="*"
+         id="0x002a-asterisk-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 80,-120 120,120 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z" />
+      <glyph
+         glyph-name="plus"
+         unicode="+"
+         id="0x002b-plus-normal"
+         d="m 352,704 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 272 h -64 z" />
+      <glyph
+         glyph-name="comma"
+         unicode=","
+         id="0x002c-comma-normal"
+         d="M 216,256 336,136 V 88 H 288 L 168,208 v 48 z m 136,0 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="hyphen-minus"
+         unicode="-"
+         id="0x002d-hyphen-minus-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="full-stop"
+         unicode="."
+         id="0x002e-full-stop-normal"
+         d="m 352,256 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="solidus"
+         unicode="/"
+         id="0x002f-solidus-normal"
+         d="m 616,888 32,32 32,-32 V 720 H 616 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="digit-zero"
+         unicode="0"
+         id="0x0030-digit-zero-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="digit-one"
+         unicode="1"
+         id="0x0031-digit-one-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="digit-two"
+         unicode="2"
+         id="0x0032-digit-two-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="digit-three"
+         unicode="3"
+         id="0x0033-digit-three-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="digit-four"
+         unicode="4"
+         id="0x0034-digit-four-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 H 352 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="digit-five"
+         unicode="5"
+         id="0x0035-digit-five-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="digit-six"
+         unicode="6"
+         id="0x0036-digit-six-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="digit-seven"
+         unicode="7"
+         id="0x0037-digit-seven-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 720 H 616 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m -80,-144 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="digit-eight"
+         unicode="8"
+         id="0x0038-digit-eight-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="digit-nine"
+         unicode="9"
+         id="0x0039-digit-nine-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="colon"
+         unicode=":"
+         id="0x003a-colon-normal"
+         d="m 352,704 h 64 V 536 l -32,-32 -32,32 z m 0,-448 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="semicolon"
+         unicode=";"
+         id="0x003b-semicolon-normal"
+         d="m 352,704 h 64 V 536 l -32,-32 -32,32 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z m 136,0 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="less-than-sign"
+         unicode="&lt;"
+         id="0x003c-less-than-sign-normal"
+         d="m 432,584 120,120 h 48 V 656 L 480,536 H 432 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z" />
+      <glyph
+         glyph-name="equal-sign"
+         unicode="="
+         id="0x003d-equal-sign-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="greater-than-sign"
+         unicode="&gt;"
+         id="0x003e-greater-than-sign-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z" />
+      <glyph
+         glyph-name="question-mark"
+         unicode="?"
+         id="0x003f-question-mark-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 352,256 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="commercial-at"
+         unicode="@"
+         id="0x0040-commercial-at-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z m 400,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-a"
+         unicode="A"
+         id="0x0041-latin-capital-letter-a-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-b"
+         unicode="B"
+         id="0x0042-latin-capital-letter-b-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-c"
+         unicode="C"
+         id="0x0043-latin-capital-letter-c-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-d"
+         unicode="D"
+         id="0x0044-latin-capital-letter-d-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-e"
+         unicode="E"
+         id="0x0045-latin-capital-letter-e-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-f"
+         unicode="F"
+         id="0x0046-latin-capital-letter-f-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-g"
+         unicode="G"
+         id="0x0047-latin-capital-letter-g-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-h"
+         unicode="H"
+         id="0x0048-latin-capital-letter-h-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-i"
+         unicode="I"
+         id="0x0049-latin-capital-letter-i-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-j"
+         unicode="J"
+         id="0x004a-latin-capital-letter-j-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-k"
+         unicode="K"
+         id="0x004b-latin-capital-letter-k-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-l"
+         unicode="L"
+         id="0x004c-latin-capital-letter-l-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-m"
+         unicode="M"
+         id="0x004d-latin-capital-letter-m-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-n"
+         unicode="N"
+         id="0x004e-latin-capital-letter-n-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z m 400,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-o"
+         unicode="O"
+         id="0x004f-latin-capital-letter-o-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-p"
+         unicode="P"
+         id="0x0050-latin-capital-letter-p-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-q"
+         unicode="Q"
+         id="0x0051-latin-capital-letter-q-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-r"
+         unicode="R"
+         id="0x0052-latin-capital-letter-r-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-s"
+         unicode="S"
+         id="0x0053-latin-capital-letter-s-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-t"
+         unicode="T"
+         id="0x0054-latin-capital-letter-t-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-u"
+         unicode="U"
+         id="0x0055-latin-capital-letter-u-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-v"
+         unicode="V"
+         id="0x0056-latin-capital-letter-v-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-w"
+         unicode="W"
+         id="0x0057-latin-capital-letter-w-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-x"
+         unicode="X"
+         id="0x0058-latin-capital-letter-x-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-y"
+         unicode="Y"
+         id="0x0059-latin-capital-letter-y-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m -80,-144 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-z"
+         unicode="Z"
+         id="0x005a-latin-capital-letter-z-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="left-square-bracket"
+         unicode="["
+         id="0x005b-left-square-bracket-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="reverse-solidus"
+         unicode="\"
+         id="0x005c-reverse-solidus-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 616,256 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="right-square-bracket"
+         unicode="]"
+         id="0x005d-right-square-bracket-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 184,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="circumflex-accent"
+         unicode="^"
+         id="0x005e-circumflex-accent-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z" />
+      <glyph
+         glyph-name="low-line"
+         unicode="_"
+         id="0x005f-low-line-normal"
+         d="M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="grave-accent"
+         unicode="`"
+         id="0x0060-grave-accent-normal"
+         d="M 480,888 600,768 V 720 H 552 L 432,840 v 48 z" />
+      <glyph
+         glyph-name="latin-small-letter-a"
+         unicode="a"
+         id="0x0061-latin-small-letter-a-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-b"
+         unicode="b"
+         id="0x0062-latin-small-letter-b-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 128,0 120,-120 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-c"
+         unicode="c"
+         id="0x0063-latin-small-letter-c-normal"
+         d="m 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-d"
+         unicode="d"
+         id="0x0064-latin-small-letter-d-normal"
+         d="m 616,888 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-e"
+         unicode="e"
+         id="0x0065-latin-small-letter-e-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-f"
+         unicode="f"
+         id="0x0066-latin-small-letter-f-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-g"
+         unicode="g"
+         id="0x0067-latin-small-letter-g-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z m 136,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-h"
+         unicode="h"
+         id="0x0068-latin-small-letter-h-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-i"
+         unicode="i"
+         id="0x0069-latin-small-letter-i-normal"
+         d="m 352,888 32,32 32,-32 V 720 h -64 z m 0,-448 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-j"
+         unicode="j"
+         id="0x006a-latin-small-letter-j-normal"
+         d="m 616,888 32,32 32,-32 V 720 h -64 z m 0,-448 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-k"
+         unicode="k"
+         id="0x006b-latin-small-letter-k-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 L 120,504 88,536 Z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 128,0 120,-120 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-l"
+         unicode="l"
+         id="0x006c-latin-small-letter-l-normal"
+         d="m 352,888 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-m"
+         unicode="m"
+         id="0x006d-latin-small-letter-m-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 264,0 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-n"
+         unicode="n"
+         id="0x006e-latin-small-letter-n-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-o"
+         unicode="o"
+         id="0x006f-latin-small-letter-o-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-p"
+         unicode="p"
+         id="0x0070-latin-small-letter-p-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 80,-120 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-q"
+         unicode="q"
+         id="0x0071-latin-small-letter-q-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z m 136,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-r"
+         unicode="r"
+         id="0x0072-latin-small-letter-r-normal"
+         d="m 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-s"
+         unicode="s"
+         id="0x0073-latin-small-letter-s-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z M 616,256 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-t"
+         unicode="t"
+         id="0x0074-latin-small-letter-t-normal"
+         d="m 352,704 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-u"
+         unicode="u"
+         id="0x0075-latin-small-letter-u-normal"
+         d="m 88,440 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-v"
+         unicode="v"
+         id="0x0076-latin-small-letter-v-normal"
+         d="m 88,440 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-w"
+         unicode="w"
+         id="0x0077-latin-small-letter-w-normal"
+         d="m 88,440 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-x"
+         unicode="x"
+         id="0x0078-latin-small-letter-x-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-y"
+         unicode="y"
+         id="0x0079-latin-small-letter-y-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-z"
+         unicode="z"
+         id="0x007a-latin-small-letter-z-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="left-brace"
+         unicode="{"
+         id="0x007b-left-brace-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="vertical-line"
+         unicode="|"
+         id="0x007c-vertical-line-normal"
+         d="m 352,888 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="right-brace"
+         unicode="}"
+         id="0x007d-right-brace-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 184,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="tilde"
+         unicode="~"
+         id="0x007e-tilde-normal"
+         d="m 616,704 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-a"
+         unicode="А"
+         id="0x0410-cyrillic-capital-letter-a-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-be"
+         unicode="Б"
+         id="0x0411-cyrillic-capital-letter-be-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ve"
+         unicode="В"
+         id="0x0412-cyrillic-capital-letter-ve-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ghe"
+         unicode="Г"
+         id="0x0413-cyrillic-capital-letter-ghe-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-de"
+         unicode="Д"
+         id="0x0414-cyrillic-capital-letter-de-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 352,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ie"
+         unicode="Е"
+         id="0x0415-cyrillic-capital-letter-ie-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-zhe"
+         unicode="Ж"
+         id="0x0416-cyrillic-capital-letter-zhe-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 80,-120 120,120 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ze"
+         unicode="З"
+         id="0x0417-cyrillic-capital-letter-ze-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-i"
+         unicode="И"
+         id="0x0418-cyrillic-capital-letter-i-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-short-i"
+         unicode="Й"
+         id="0x0419-cyrillic-capital-letter-short-i-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ka"
+         unicode="К"
+         id="0x041a-cyrillic-capital-letter-ka-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-el"
+         unicode="Л"
+         id="0x041b-cyrillic-capital-letter-el-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 352,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-em"
+         unicode="М"
+         id="0x041c-cyrillic-capital-letter-em-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-en"
+         unicode="Н"
+         id="0x041d-cyrillic-capital-letter-en-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-o"
+         unicode="О"
+         id="0x041e-cyrillic-capital-letter-o-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-pe"
+         unicode="П"
+         id="0x041f-cyrillic-capital-letter-pe-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-er"
+         unicode="Р"
+         id="0x0420-cyrillic-capital-letter-er-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 720 H 88 Z m 392,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-es"
+         unicode="С"
+         id="0x0421-cyrillic-capital-letter-es-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-te"
+         unicode="Т"
+         id="0x0422-cyrillic-capital-letter-te-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-u"
+         unicode="У"
+         id="0x0423-cyrillic-capital-letter-u-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ef"
+         unicode="Ф"
+         id="0x0424-cyrillic-capital-letter-ef-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 h -64 z m 128,0 120,-120 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 264,0 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z m 136,0 h 64 V 88 L 384,56 352,88 Z m 80,-120 120,120 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ha"
+         unicode="Х"
+         id="0x0425-cyrillic-capital-letter-ha-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-tse"
+         unicode="Ц"
+         id="0x0426-cyrillic-capital-letter-tse-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-che"
+         unicode="Ч"
+         id="0x0427-cyrillic-capital-letter-che-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 400,0 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-sha"
+         unicode="Ш"
+         id="0x0428-cyrillic-capital-letter-sha-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 264,0 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-shcha"
+         unicode="Щ"
+         id="0x0429-cyrillic-capital-letter-shcha-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-hard-sign"
+         unicode="Ъ"
+         id="0x042a-cyrillic-capital-letter-hard-sign-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 184,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 352,256 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-yeru"
+         unicode="Ы"
+         id="0x042b-cyrillic-capital-letter-yeru-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 528,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-soft-sign"
+         unicode="Ь"
+         id="0x042c-cyrillic-capital-letter-soft-sign-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-e"
+         unicode="Э"
+         id="0x042d-cyrillic-capital-letter-e-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 720 h -64 z m 0,-184 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-yu"
+         unicode="Ю"
+         id="0x042e-cyrillic-capital-letter-yu-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 264,0 32,32 32,-32 V 720 h -64 z m 264,0 32,32 32,-32 V 720 H 616 Z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 264,0 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ya"
+         unicode="Я"
+         id="0x042f-cyrillic-capital-letter-ya-normal"
+         d="m 432,968 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,768 288,888 h 48 V 840 L 216,720 h -48 z m 448,120 32,32 32,-32 V 720 H 616 Z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 400,0 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-a"
+         unicode="а"
+         id="0x0430-cyrillic-small-letter-a-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-be"
+         unicode="б"
+         id="0x0431-cyrillic-small-letter-be-normal"
+         d="m 168,968 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 720 H 88 Z m 0,-184 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ve"
+         unicode="в"
+         id="0x0432-cyrillic-small-letter-ve-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 0,-264 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 128,0 120,-120 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ghe"
+         unicode="г"
+         id="0x0433-cyrillic-small-letter-ghe-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-de"
+         unicode="д"
+         id="0x0434-cyrillic-small-letter-de-normal"
+         d="m 432,584 120,120 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ie"
+         unicode="е"
+         id="0x0435-cyrillic-small-letter-ie-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-zhe"
+         unicode="ж"
+         id="0x0436-cyrillic-small-letter-zhe-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 80,-120 120,120 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ze"
+         unicode="з"
+         id="0x0437-cyrillic-small-letter-ze-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-i"
+         unicode="и"
+         id="0x0438-cyrillic-small-letter-i-normal"
+         d="m 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-short-i"
+         unicode="й"
+         id="0x0439-cyrillic-small-letter-short-i-normal"
+         d="m 352,888 32,32 32,-32 V 720 H 352 Z M 88,704 h 64 V 536 L 120,504 88,536 Z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ka"
+         unicode="к"
+         id="0x043a-cyrillic-small-letter-ka-normal"
+         d="m 88,704 h 64 V 536 L 120,504 88,536 Z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 128,0 120,-120 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-el"
+         unicode="л"
+         id="0x043b-cyrillic-small-letter-el-normal"
+         d="m 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 h -48 z m 448,120 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-em"
+         unicode="м"
+         id="0x043c-cyrillic-small-letter-em-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 h -48 z m 184,120 h 64 V 536 l -32,-32 -32,32 z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-en"
+         unicode="н"
+         id="0x043d-cyrillic-small-letter-en-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-o"
+         unicode="о"
+         id="0x043e-cyrillic-small-letter-o-normal"
+         d="m 168,320 120,120 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-pe"
+         unicode="п"
+         id="0x043f-cyrillic-small-letter-pe-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 528,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-er"
+         unicode="р"
+         id="0x0440-cyrillic-small-letter-er-normal"
+         d="m 88,888 32,32 32,-32 V 720 H 88 Z m 80,-120 120,120 h 48 V 840 L 216,720 H 168 Z M 480,888 600,768 V 720 H 552 L 432,840 v 48 z M 88,704 h 64 V 536 l -32,-32 -32,32 z m 128,0 120,-120 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 88,440 l 32,32 32,-32 V 272 H 88 Z m 0,-184 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-es"
+         unicode="с"
+         id="0x0441-cyrillic-small-letter-es-normal"
+         d="m 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 216,256 336,136 V 88 H 288 L 168,208 v 48 z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-te"
+         unicode="т"
+         id="0x0442-cyrillic-small-letter-te-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -80,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-u"
+         unicode="у"
+         id="0x0443-cyrillic-small-letter-u-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 88,256 h 64 V 88 L 120,56 88,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ef"
+         unicode="ф"
+         id="0x0444-cyrillic-small-letter-ef-normal"
+         d="m 168,768 120,120 h 48 V 840 L 216,720 h -48 z m 184,120 32,32 32,-32 V 720 h -64 z m 128,0 120,-120 V 720 H 552 L 432,840 v 48 z M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,0 h 64 V 536 l -32,-32 -32,32 z m 80,-120 120,120 h 48 V 656 L 480,536 h -48 z m -80,-144 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 384,56 352,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ha"
+         unicode="х"
+         id="0x0445-cyrillic-small-letter-ha-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z M 432,584 552,704 h 48 V 656 L 480,536 H 432 Z M 168,320 288,440 h 48 V 392 L 216,272 H 168 Z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z m 528,0 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-tse"
+         unicode="ц"
+         id="0x0446-cyrillic-small-letter-tse-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-che"
+         unicode="ч"
+         id="0x0447-cyrillic-small-letter-che-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 400,0 h 64 V 536 l -32,-32 -32,32 z M 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-sha"
+         unicode="ш"
+         id="0x0448-cyrillic-small-letter-sha-normal"
+         d="m 88,440 32,32 32,-32 V 272 H 88 Z m 264,0 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z m 256,0 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-shcha"
+         unicode="щ"
+         id="0x0449-cyrillic-small-letter-shcha-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z m 264,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 264,0 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-hard-sign"
+         unicode="ъ"
+         id="0x044a-cyrillic-small-letter-hard-sign-normal"
+         d="M 216,704 336,584 V 536 H 288 L 168,656 v 48 z m 136,-264 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 352,256 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-yeru"
+         unicode="ы"
+         id="0x044b-cyrillic-small-letter-yeru-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 528,0 h 64 V 536 l -32,-32 -32,32 z M 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 h -48 z m 184,120 h 64 V 88 L 648,56 616,88 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-soft-sign"
+         unicode="ь"
+         id="0x044c-cyrillic-small-letter-soft-sign-normal"
+         d="m 88,704 h 64 V 536 l -32,-32 -32,32 z m 80,-184 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m -80,-80 32,32 32,-32 V 272 H 88 Z m 392,0 120,-120 V 272 H 552 L 432,392 v 48 z M 88,256 h 64 V 88 L 120,56 88,88 Z M 432,136 552,256 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-e"
+         unicode="э"
+         id="0x044d-cyrillic-small-letter-e-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z m 184,-80 32,32 32,-32 V 272 h -64 z m 128,0 120,-120 V 272 H 552 L 432,392 v 48 z M 352,256 h 64 V 88 L 384,56 352,88 Z m 80,-120 120,120 h 48 V 208 L 480,88 H 432 Z M 176,72 H 336 L 368,40 336,8 H 176 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-yu"
+         unicode="ю"
+         id="0x044e-cyrillic-small-letter-yu-normal"
+         d="m 432,520 h 168 l 32,-32 -32,-32 H 432 l -32,32 z m -344,-80 32,32 32,-32 V 272 H 88 Z m 80,-120 120,120 h 48 V 392 L 216,272 h -48 z m 184,120 32,32 32,-32 V 272 h -64 z m 264,0 32,32 32,-32 V 272 H 616 Z M 88,256 h 64 V 88 L 120,56 88,88 Z m 264,0 h 64 V 88 L 384,56 352,88 Z m 264,0 h 64 V 88 L 648,56 616,88 Z M 432,72 H 592 L 624,40 592,8 H 432 l -32,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ya"
+         unicode="я"
+         id="0x044f-cyrillic-small-letter-ya-normal"
+         d="m 168,520 h 168 l 32,-32 -32,-32 H 168 l -32,32 z M 480,440 600,320 V 272 H 552 L 432,392 v 48 z m 136,0 32,32 32,-32 V 272 h -64 z m 0,-184 h 64 V 88 L 648,56 616,88 Z" />
+    </font>
+    <font
+       horiz-adv-x="768"
+       id="TwixSegmentedDisplay-Italic"
+       inkscape:label="TwixSegmentedDisplay-Italic"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         ascent="0"
+         cap-height="1024"
+         x-height="0"
+         descent="0"
+         id="twix-segmented-display-italic"
+         font-family="TwixSegmentedDisplay" />
+      <missing-glyph
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 58.84076,-120 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 58.84076,-120 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z"
+         id="0x0000-null-italic" />
+      <glyph
+         glyph-name="space"
+         unicode=" "
+         id="0x0020-space"
+         d="M 0,0" />
+      <glyph
+         glyph-name="exclamation-mark"
+         unicode="!"
+         id="0x0021-exclamation-mark-italic"
+         d="m 422.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="quotation-mark"
+         unicode="&quot;"
+         id="0x0022-quotation-mark-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z" />
+      <glyph
+         glyph-name="number-sign"
+         unicode="#"
+         id="0x0023-number-sign-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="dollar-sign"
+         unicode="$"
+         id="0x0024-dollar-sign-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z m 136,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="percent-sign"
+         unicode="%"
+         id="0x0025-percent-sign-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 58.84076,-120 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 469.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="ampersand"
+         unicode="&amp;"
+         id="0x0026-ampersand-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="apostrophe"
+         unicode="'"
+         id="0x0027-apostrophe-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -35.2654,-200 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z" />
+      <glyph
+         glyph-name="left-parenthesis"
+         unicode="("
+         id="0x0028-left-parenthesis-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m -91.28492,-64 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z" />
+      <glyph
+         glyph-name="right-parenthesis"
+         unicode=")"
+         id="0x0029-right-parenthesis-italic"
+         d="m 550.53079,888 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 654.08663,704 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="asterisk"
+         unicode="*"
+         id="0x002a-asterisk-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 58.84076,-120 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z" />
+      <glyph
+         glyph-name="plus"
+         unicode="+"
+         id="0x002b-plus-italic"
+         d="m 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z" />
+      <glyph
+         glyph-name="comma"
+         unicode=","
+         id="0x002c-comma-italic"
+         d="M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z m 136,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="hyphen-minus"
+         unicode="-"
+         id="0x002d-hyphen-minus-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z" />
+      <glyph
+         glyph-name="full-stop"
+         unicode="."
+         id="0x002e-full-stop-italic"
+         d="m 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="solidus"
+         unicode="/"
+         id="0x002f-solidus-italic"
+         d="m 686.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="digit-zero"
+         unicode="0"
+         id="0x0030-digit-zero-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="digit-one"
+         unicode="1"
+         id="0x0031-digit-one-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="digit-two"
+         unicode="2"
+         id="0x0032-digit-two-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="digit-three"
+         unicode="3"
+         id="0x0033-digit-three-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 22.60891,-144 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="digit-four"
+         unicode="4"
+         id="0x0034-digit-four-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="digit-five"
+         unicode="5"
+         id="0x0035-digit-five-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 297.89384,-80 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="digit-six"
+         unicode="6"
+         id="0x0036-digit-six-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="digit-seven"
+         unicode="7"
+         id="0x0037-digit-seven-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="digit-eight"
+         unicode="8"
+         id="0x0038-digit-eight-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="digit-nine"
+         unicode="9"
+         id="0x0039-digit-nine-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="colon"
+         unicode=":"
+         id="0x003a-colon-italic"
+         d="m 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="semicolon"
+         unicode=";"
+         id="0x003b-semicolon-italic"
+         d="m 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z m 136,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="less-than-sign"
+         unicode="&lt;"
+         id="0x003c-less-than-sign-italic"
+         d="m 448.92739,584 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z m 22.60891,-144 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z" />
+      <glyph
+         glyph-name="equal-sign"
+         unicode="="
+         id="0x003d-equal-sign-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="greater-than-sign"
+         unicode="&gt;"
+         id="0x003e-greater-than-sign-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z" />
+      <glyph
+         glyph-name="question-mark"
+         unicode="?"
+         id="0x003f-question-mark-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="commercial-at"
+         unicode="@"
+         id="0x0040-commercial-at-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 400,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-a"
+         unicode="A"
+         id="0x0041-latin-capital-letter-a-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-b"
+         unicode="B"
+         id="0x0042-latin-capital-letter-b-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-c"
+         unicode="C"
+         id="0x0043-latin-capital-letter-c-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-d"
+         unicode="D"
+         id="0x0044-latin-capital-letter-d-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-e"
+         unicode="E"
+         id="0x0045-latin-capital-letter-e-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-f"
+         unicode="F"
+         id="0x0046-latin-capital-letter-f-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-g"
+         unicode="G"
+         id="0x0047-latin-capital-letter-g-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-h"
+         unicode="H"
+         id="0x0048-latin-capital-letter-h-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-i"
+         unicode="I"
+         id="0x0049-latin-capital-letter-i-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-j"
+         unicode="J"
+         id="0x004a-latin-capital-letter-j-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 654.08663,704 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-k"
+         unicode="K"
+         id="0x004b-latin-capital-letter-k-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-l"
+         unicode="L"
+         id="0x004c-latin-capital-letter-l-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-m"
+         unicode="M"
+         id="0x004d-latin-capital-letter-m-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-n"
+         unicode="N"
+         id="0x004e-latin-capital-letter-n-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 400,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-o"
+         unicode="O"
+         id="0x004f-latin-capital-letter-o-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-p"
+         unicode="P"
+         id="0x0050-latin-capital-letter-p-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-q"
+         unicode="Q"
+         id="0x0051-latin-capital-letter-q-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-r"
+         unicode="R"
+         id="0x0052-latin-capital-letter-r-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-s"
+         unicode="S"
+         id="0x0053-latin-capital-letter-s-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 217.44967,-264 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-t"
+         unicode="T"
+         id="0x0054-latin-capital-letter-t-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-u"
+         unicode="U"
+         id="0x0055-latin-capital-letter-u-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-capital-letter-v"
+         unicode="V"
+         id="0x0056-latin-capital-letter-v-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-capital-letter-w"
+         unicode="W"
+         id="0x0057-latin-capital-letter-w-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-x"
+         unicode="X"
+         id="0x0058-latin-capital-letter-x-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-y"
+         unicode="Y"
+         id="0x0059-latin-capital-letter-y-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="latin-capital-letter-z"
+         unicode="Z"
+         id="0x005a-latin-capital-letter-z-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="left-square-bracket"
+         unicode="["
+         id="0x005b-left-square-bracket-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="reverse-solidus"
+         unicode="\"
+         id="0x005c-reverse-solidus-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 95.55584,-184 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 217.44967,-264 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="right-square-bracket"
+         unicode="]"
+         id="0x005d-right-square-bracket-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="circumflex-accent"
+         unicode="^"
+         id="0x005e-circumflex-accent-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z" />
+      <glyph
+         glyph-name="low-line"
+         unicode="_"
+         id="0x005f-low-line-italic"
+         d="m 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="grave-accent"
+         unicode="`"
+         id="0x0060-grave-accent-italic"
+         d="m 550.53079,888 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z" />
+      <glyph
+         glyph-name="latin-small-letter-a"
+         unicode="a"
+         id="0x0061-latin-small-letter-a-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-b"
+         unicode="b"
+         id="0x0062-latin-small-letter-b-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-c"
+         unicode="c"
+         id="0x0063-latin-small-letter-c-italic"
+         d="m 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 36.71507,-64 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-d"
+         unicode="d"
+         id="0x0064-latin-small-letter-d-italic"
+         d="m 686.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 654.08663,704 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-e"
+         unicode="e"
+         id="0x0065-latin-small-letter-e-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-f"
+         unicode="f"
+         id="0x0066-latin-small-letter-f-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-g"
+         unicode="g"
+         id="0x0067-latin-small-letter-g-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-h"
+         unicode="h"
+         id="0x0068-latin-small-letter-h-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-i"
+         unicode="i"
+         id="0x0069-latin-small-letter-i-italic"
+         d="m 422.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-j"
+         unicode="j"
+         id="0x006a-latin-small-letter-j-italic"
+         d="m 686.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-k"
+         unicode="k"
+         id="0x006b-latin-small-letter-k-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-l"
+         unicode="l"
+         id="0x006c-latin-small-letter-l-italic"
+         d="m 422.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-m"
+         unicode="m"
+         id="0x006d-latin-small-letter-m-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 263.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-n"
+         unicode="n"
+         id="0x006e-latin-small-letter-n-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-o"
+         unicode="o"
+         id="0x006f-latin-small-letter-o-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-p"
+         unicode="p"
+         id="0x0070-latin-small-letter-p-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 58.84076,-120 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-q"
+         unicode="q"
+         id="0x0071-latin-small-letter-q-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 607.5363,440 645.17877,472 671.5363,440 641.91337,272 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-r"
+         unicode="r"
+         id="0x0072-latin-small-letter-r-italic"
+         d="m 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-s"
+         unicode="s"
+         id="0x0073-latin-small-letter-s-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-t"
+         unicode="t"
+         id="0x0074-latin-small-letter-t-italic"
+         d="m 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-u"
+         unicode="u"
+         id="0x0075-latin-small-letter-u-italic"
+         d="M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-v"
+         unicode="v"
+         id="0x0076-latin-small-letter-v-italic"
+         d="M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="latin-small-letter-w"
+         unicode="w"
+         id="0x0077-latin-small-letter-w-italic"
+         d="M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="latin-small-letter-x"
+         unicode="x"
+         id="0x0078-latin-small-letter-x-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-y"
+         unicode="y"
+         id="0x0079-latin-small-letter-y-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="latin-small-letter-z"
+         unicode="z"
+         id="0x007a-latin-small-letter-z-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="left-brace"
+         unicode="{"
+         id="0x007b-left-brace-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="vertical-line"
+         unicode="|"
+         id="0x007c-vertical-line-italic"
+         d="m 422.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="right-brace"
+         unicode="}"
+         id="0x007d-right-brace-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 47.55583,-184 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="tilde"
+         unicode="~"
+         id="0x007e-tilde-italic"
+         d="m 654.08663,704 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-a"
+         unicode="А"
+         id="0x0410-cyrillic-capital-letter-a-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-be"
+         unicode="Б"
+         id="0x0411-cyrillic-capital-letter-be-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ve"
+         unicode="В"
+         id="0x0412-cyrillic-capital-letter-ve-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ghe"
+         unicode="Г"
+         id="0x0413-cyrillic-capital-letter-ghe-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-de"
+         unicode="Д"
+         id="0x0414-cyrillic-capital-letter-de-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ie"
+         unicode="Е"
+         id="0x0415-cyrillic-capital-letter-ie-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-zhe"
+         unicode="Ж"
+         id="0x0416-cyrillic-capital-letter-zhe-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 58.84076,-120 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ze"
+         unicode="З"
+         id="0x0417-cyrillic-capital-letter-ze-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 297.89384,-80 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 22.60891,-144 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-i"
+         unicode="И"
+         id="0x0418-cyrillic-capital-letter-i-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-short-i"
+         unicode="Й"
+         id="0x0419-cyrillic-capital-letter-short-i-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ka"
+         unicode="К"
+         id="0x041a-cyrillic-capital-letter-ka-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-el"
+         unicode="Л"
+         id="0x041b-cyrillic-capital-letter-el-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-em"
+         unicode="М"
+         id="0x041c-cyrillic-capital-letter-em-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-en"
+         unicode="Н"
+         id="0x041d-cyrillic-capital-letter-en-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-o"
+         unicode="О"
+         id="0x041e-cyrillic-capital-letter-o-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-pe"
+         unicode="П"
+         id="0x041f-cyrillic-capital-letter-pe-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-er"
+         unicode="Р"
+         id="0x0420-cyrillic-capital-letter-er-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 392,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-es"
+         unicode="С"
+         id="0x0421-cyrillic-capital-letter-es-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-te"
+         unicode="Т"
+         id="0x0422-cyrillic-capital-letter-te-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-u"
+         unicode="У"
+         id="0x0423-cyrillic-capital-letter-u-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ef"
+         unicode="Ф"
+         id="0x0424-cyrillic-capital-letter-ef-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 263.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z m 136,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ha"
+         unicode="Х"
+         id="0x0425-cyrillic-capital-letter-ha-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-tse"
+         unicode="Ц"
+         id="0x0426-cyrillic-capital-letter-tse-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-che"
+         unicode="Ч"
+         id="0x0427-cyrillic-capital-letter-che-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 400,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-sha"
+         unicode="Ш"
+         id="0x0428-cyrillic-capital-letter-sha-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 263.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-shcha"
+         unicode="Щ"
+         id="0x0429-cyrillic-capital-letter-shcha-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-hard-sign"
+         unicode="Ъ"
+         id="0x042a-cyrillic-capital-letter-hard-sign-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 390.08663,704 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-yeru"
+         unicode="Ы"
+         id="0x042b-cyrillic-capital-letter-yeru-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 528,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-soft-sign"
+         unicode="Ь"
+         id="0x042c-cyrillic-capital-letter-soft-sign-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-e"
+         unicode="Э"
+         id="0x042d-cyrillic-capital-letter-e-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 654.08663,704 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-yu"
+         unicode="Ю"
+         id="0x042e-cyrillic-capital-letter-yu-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 263.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-capital-letter-ya"
+         unicode="Я"
+         id="0x042f-cyrillic-capital-letter-ya-italic"
+         d="m 516.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z M 217.37155,768 358.53079,888 h 48 L 398.0671,840 256.90786,720 h -48 z m 469.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 400,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-a"
+         unicode="а"
+         id="0x0430-cyrillic-small-letter-a-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-be"
+         unicode="б"
+         id="0x0431-cyrillic-small-letter-be-italic"
+         d="m 252.63695,968 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m 264,0 h 168 l 26.35754,-32 -37.64247,-32 h -168 l -26.35753,32 z m -358.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ve"
+         unicode="в"
+         id="0x0432-cyrillic-small-letter-ve-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ghe"
+         unicode="г"
+         id="0x0433-cyrillic-small-letter-ghe-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-de"
+         unicode="д"
+         id="0x0434-cyrillic-small-letter-de-italic"
+         d="m 448.92739,584 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ie"
+         unicode="е"
+         id="0x0435-cyrillic-small-letter-ie-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-zhe"
+         unicode="ж"
+         id="0x0436-cyrillic-small-letter-zhe-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 58.84076,-120 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ze"
+         unicode="з"
+         id="0x0437-cyrillic-small-letter-ze-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 297.89384,-80 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-i"
+         unicode="и"
+         id="0x0438-cyrillic-small-letter-i-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-short-i"
+         unicode="й"
+         id="0x0439-cyrillic-small-letter-short-i-italic"
+         d="m 422.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ka"
+         unicode="к"
+         id="0x043a-cyrillic-small-letter-ka-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-el"
+         unicode="л"
+         id="0x043b-cyrillic-small-letter-el-italic"
+         d="m 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 469.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-em"
+         unicode="м"
+         id="0x043c-cyrillic-small-letter-em-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z m 205.15924,120 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-en"
+         unicode="н"
+         id="0x043d-cyrillic-small-letter-en-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-o"
+         unicode="о"
+         id="0x043e-cyrillic-small-letter-o-italic"
+         d="M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 175.09214,256 273.9329,136 265.46921,88 h -48 l -98.84076,120 8.46369,48 z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-pe"
+         unicode="п"
+         id="0x043f-cyrillic-small-letter-pe-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 527.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-er"
+         unicode="р"
+         id="0x0440-cyrillic-small-letter-er-italic"
+         d="m 158.53079,888 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 58.84076,-120 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 333.15924,120 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-es"
+         unicode="с"
+         id="0x0441-cyrillic-small-letter-es-italic"
+         d="m 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 36.71507,-64 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-te"
+         unicode="т"
+         id="0x0442-cyrillic-small-letter-te-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m -94.10616,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-u"
+         unicode="у"
+         id="0x0443-cyrillic-small-letter-u-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ef"
+         unicode="ф"
+         id="0x0444-cyrillic-small-letter-ef-italic"
+         d="m 217.37155,768 141.15924,120 h 48 L 398.0671,840 256.90786,720 h -48 z m 205.15924,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84076,-120 -8.46369,-48 h -48 l -98.84076,120 8.46369,48 z M 254.08663,704 352.92739,584 344.4637,536 h -48 l -98.84077,120 8.4637,48 z m 136,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 58.84076,-120 141.15924,120 h 48 L 629.62293,656 488.4637,536 h -48 z M 343.5363,440 381.17877,472 407.5363,440 377.91337,272 h -64 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ha"
+         unicode="х"
+         id="0x0445-cyrillic-small-letter-ha-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z M 448.92739,584 590.08663,704 h 48 L 629.62293,656 488.4637,536 h -48 z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 333.15923,120 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 528,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-tse"
+         unicode="ц"
+         id="0x0446-cyrillic-small-letter-tse-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-che"
+         unicode="ч"
+         id="0x0447-cyrillic-small-letter-che-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 400,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-sha"
+         unicode="ш"
+         id="0x0448-cyrillic-small-letter-sha-italic"
+         d="M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 263.999995,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z m 256,0 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-shcha"
+         unicode="щ"
+         id="0x0449-cyrillic-small-letter-shcha-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 264,0 h 64 L 424.4637,536 386.82123,504 360.4637,536 Z m 264,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 264,0 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-hard-sign"
+         unicode="ъ"
+         id="0x044a-cyrillic-small-letter-hard-sign-italic"
+         d="m 254.08663,704 98.84076,-120 -8.46369,-48 h -48 l -98.84077,120 8.4637,48 z m 89.44967,-264 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-yeru"
+         unicode="ы"
+         id="0x044b-cyrillic-small-letter-yeru-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 528,0 h 64 L 688.4637,536 650.82123,504 624.4637,536 Z M 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z m 205.15924,120 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-soft-sign"
+         unicode="ь"
+         id="0x044c-cyrillic-small-letter-soft-sign-italic"
+         d="m 126.08663,704 h 64 L 160.4637,536 122.82123,504 96.463695,536 Z m 47.55583,-184 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z m 391.999995,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-e"
+         unicode="э"
+         id="0x044d-cyrillic-small-letter-e-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 169.89384,-80 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 128,0 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z M 311.09214,256 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z M 369.9329,136 511.09214,256 h 48 L 550.62845,208 409.46921,88 h -48 z M 102.64798,72 h 160 L 289.00551,40 251.36305,8 H 91.363049 L 65.005513,40 Z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-yu"
+         unicode="ю"
+         id="0x044e-cyrillic-small-letter-yu-italic"
+         d="m 437.64246,520 h 168 L 632,488 594.35754,456 h -168 L 400,488 Z M 79.536305,440 117.17877,472 143.5363,440 113.91337,272 H 49.913372 Z M 138.37707,320 279.5363,440 h 48 L 319.07261,392 177.91337,272 h -48 z m 205.15923,120 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z m 264,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 47.09214,256 h 64 L 81.469208,88 43.826744,56 17.469208,88 Z m 264,0 h 64 L 345.46921,88 307.82674,56 281.46921,88 Z m 264,0 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z M 358.64798,72 h 160 L 545.00551,40 507.36305,8 h -160 l -26.35754,32 z" />
+      <glyph
+         glyph-name="cyrillic-small-letter-ya"
+         unicode="я"
+         id="0x044f-cyrillic-small-letter-ya-italic"
+         d="m 173.64246,520 h 168 L 368,488 330.35754,456 h -168 L 136,488 Z m 297.89384,-80 98.84077,-120 -8.4637,-48 h -48 l -98.84076,120 8.46369,48 z m 136,0 37.64247,32 26.35753,-32 -29.62293,-168 h -64 z M 575.09214,256 h 64 L 609.46921,88 571.82674,56 545.46921,88 Z" />
+    </font>
+  </defs>
+</svg>

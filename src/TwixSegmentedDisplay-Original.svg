@@ -1,0 +1,6822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="1024"
+   viewBox="0 0 768 1024"
+   version="1.1"
+   id="twix-segmented-display"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="TwixSegmentedDisplay-Original.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="382"
+     inkscape:cy="510"
+     inkscape:window-width="1918"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="16"
+       spacingy="16"
+       empcolor="#888888"
+       empopacity="0.1"
+       color="#888888"
+       opacity="0.1"
+       empspacing="4"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="0x044f-cyrillic-small-letter-ya"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x044e-cyrillic-small-letter-yu"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+  </g>
+  <g
+     inkscape:label="0x044d-cyrillic-small-letter-e"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x044c-cyrillic-small-letter-soft-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x044b-cyrillic-small-letter-yeru"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x044a-cyrillic-small-letter-hard-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0449-cyrillic-small-letter-shcha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x0448-cyrillic-small-letter-sha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+  </g>
+  <g
+     inkscape:label="0x0447-cyrillic-small-letter-che"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0446-cyrillic-small-letter-tse"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x0445-cyrillic-small-letter-ha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0444-cyrillic-small-letter-ef"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0443-cyrillic-small-letter-u"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0442-cyrillic-small-letter-te"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x0441-cyrillic-small-letter-es"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+  </g>
+  <g
+     inkscape:label="0x0440-cyrillic-small-letter-er"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x043f-cyrillic-small-letter-pe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x043e-cyrillic-small-letter-o"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x043d-cyrillic-small-letter-en"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x043c-cyrillic-small-letter-em"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x043b-cyrillic-small-letter-el"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+  </g>
+  <g
+     inkscape:label="0x043a-cyrillic-small-letter-ka"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x0439-cyrillic-small-letter-short-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+  </g>
+  <g
+     inkscape:label="0x0438-cyrillic-small-letter-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x0437-cyrillic-small-letter-ze"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x0436-cyrillic-small-letter-zhe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0435-cyrillic-small-letter-ie"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x0434-cyrillic-small-letter-de"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+  </g>
+  <g
+     inkscape:label="0x0433-cyrillic-small-letter-ghe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x0432-cyrillic-small-letter-ve"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+  </g>
+  <g
+     inkscape:label="0x0431-cyrillic-small-letter-be"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0430-cyrillic-small-letter-a"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x042f-cyrillic-capital-letter-ya"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x042e-cyrillic-capital-letter-yu"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x042d-cyrillic-capital-letter-e"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x042c-cyrillic-capital-letter-soft-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x042b-cyrillic-capital-letter-yeru"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x042a-cyrillic-capital-letter-hard-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0429-cyrillic-capital-letter-shcha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0428-cyrillic-capital-letter-sha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0427-cyrillic-capital-letter-che"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0426-cyrillic-capital-letter-tse"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0425-cyrillic-capital-letter-ha"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0424-cyrillic-capital-letter-ef"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0423-cyrillic-capital-letter-u"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0422-cyrillic-capital-letter-te"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0421-cyrillic-capital-letter-es"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0420-cyrillic-capital-letter-er"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x041f-cyrillic-capital-letter-pe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x041e-cyrillic-capital-letter-o"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x041d-cyrillic-capital-letter-en"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x041c-cyrillic-capital-letter-em"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x041b-cyrillic-capital-letter-el"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x041a-cyrillic-capital-letter-ka"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0419-cyrillic-capital-letter-short-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0418-cyrillic-capital-letter-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0417-cyrillic-capital-letter-ze"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0416-cyrillic-capital-letter-zhe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0415-cyrillic-capital-letter-ie"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0414-cyrillic-capital-letter-de"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x0413-cyrillic-capital-letter-ghe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0412-cyrillic-capital-letter-ve"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0411-cyrillic-capital-letter-be"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0410-cyrillic-capital-letter-a"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x007e-tilde"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+  </g>
+  <g
+     inkscape:label="0x007d-right-brace"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x007c-vertical-line"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+  </g>
+  <g
+     inkscape:label="0x007b-left-brace"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x007a-latin-small-letter-z"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x0079-latin-small-letter-y"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0078-latin-small-letter-x"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0077-latin-small-letter-w"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+  </g>
+  <g
+     inkscape:label="0x0076-latin-small-letter-v"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+  </g>
+  <g
+     inkscape:label="0x0075-latin-small-letter-u"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+  </g>
+  <g
+     inkscape:label="0x0074-latin-small-letter-t"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+  </g>
+  <g
+     inkscape:label="0x0073-latin-small-letter-s"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x0072-latin-small-letter-r"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+  </g>
+  <g
+     inkscape:label="0x0071-latin-small-letter-q"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0070-latin-small-letter-p"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x006f-latin-small-letter-o"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x006e-latin-small-letter-n"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x006d-latin-small-letter-m"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x006c-latin-small-letter-l"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+  </g>
+  <g
+     inkscape:label="0x006b-latin-small-letter-k"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x006a-latin-small-letter-j"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+  </g>
+  <g
+     inkscape:label="0x0069-latin-small-letter-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+  </g>
+  <g
+     inkscape:label="0x0068-latin-small-letter-h"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0067-latin-small-letter-g"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0066-latin-small-letter-f"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0065-latin-small-letter-e"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x0064-latin-small-letter-d"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+  </g>
+  <g
+     inkscape:label="0x0063-latin-small-letter-c"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+  </g>
+  <g
+     inkscape:label="0x0062-latin-small-letter-b"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0061-latin-small-letter-a"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+  </g>
+  <g
+     inkscape:label="0x0060-grave-accent"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+  </g>
+  <g
+     inkscape:label="0x005f-low-line"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+  </g>
+  <g
+     inkscape:label="0x005e-circumflex-accent"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x005d-right-square-bracket"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x005c-reverse-solidus"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x005b-left-square-bracket"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x005a-latin-capital-letter-z"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0059-latin-capital-letter-y"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0058-latin-capital-letter-x"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0057-latin-capital-letter-w"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0056-latin-capital-letter-v"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0055-latin-capital-letter-u"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0054-latin-capital-letter-t"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0053-latin-capital-letter-s"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0052-latin-capital-letter-r"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0051-latin-capital-letter-q"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0050-latin-capital-letter-p"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x004f-latin-capital-letter-o"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x004e-latin-capital-letter-n"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x004d-latin-capital-letter-m"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x004c-latin-capital-letter-l"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x004b-latin-capital-letter-k"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x004a-latin-capital-letter-j"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+  </g>
+  <g
+     inkscape:label="0x0049-latin-capital-letter-i"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0048-latin-capital-letter-h"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0047-latin-capital-letter-g"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0046-latin-capital-letter-f"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0045-latin-capital-letter-e"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0044-latin-capital-letter-d"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0043-latin-capital-letter-c"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0042-latin-capital-letter-b"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0041-latin-capital-letter-a"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0040-commercial-at"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x003f-question-mark"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x003e-greater-than-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x003d-equal-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x003c-less-than-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+  </g>
+  <g
+     inkscape:label="0x003b-semicolon"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+  </g>
+  <g
+     inkscape:label="0x003a-colon"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+  </g>
+  <g
+     inkscape:label="0x0039-digit-nine"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0038-digit-eight"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0037-digit-seven"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0036-digit-six"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0035-digit-five"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0034-digit-four"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0033-digit-three"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0032-digit-two"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0031-digit-one"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0030-digit-zero"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x002f-solidus"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+  </g>
+  <g
+     inkscape:label="0x002e-full-stop"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+  </g>
+  <g
+     inkscape:label="0x002d-hyphen-minus"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+  </g>
+  <g
+     inkscape:label="0x002c-comma"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+  </g>
+  <g
+     inkscape:label="0x002b-plus"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+  </g>
+  <g
+     inkscape:label="0x002a-asterisk"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+  </g>
+  <g
+     inkscape:label="0x0029-right-parenthesis"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+  </g>
+  <g
+     inkscape:label="0x0028-left-parenthesis"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0027-apostrophe"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0026-ampersand"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0025-percent-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+  <g
+     inkscape:label="0x0024-dollar-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+  </g>
+  <g
+     inkscape:label="0x0023-number-sign"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0022-quotation-mark"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+  </g>
+  <g
+     inkscape:label="0x0021-exclamation-mark"
+     inkscape:groupmode="layer"
+     id=""
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+  </g>
+  <g
+     inkscape:label="0x0020-space"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="0x0000-null"
+     inkscape:groupmode="layer"
+     id=""
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id=""
+       d="m 432,928 h 160 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-26" />
+    <path
+       id=""
+       d="m 176,928 h 160 l 32,32 -32,32 H 176 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-25" />
+    <path
+       id=""
+       d="m 616,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-24" />
+    <path
+       id=""
+       d="M 432,864 552,744 h 48 v 48 L 480,912 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-23" />
+    <path
+       id=""
+       d="m 352,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-22" />
+    <path
+       id=""
+       d="m 216,744 120,120 v 48 H 288 L 168,792 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-21" />
+    <path
+       id=""
+       d="m 88,744 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-20" />
+    <path
+       id=""
+       d="m 616,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-19" />
+    <path
+       id=""
+       d="m 480,560 120,120 v 48 H 552 L 432,608 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-18" />
+    <path
+       id=""
+       d="m 352,560 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-17" />
+    <path
+       id=""
+       d="M 168,680 288,560 h 48 v 48 L 216,728 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-16" />
+    <path
+       id=""
+       d="m 88,560 32,-32 32,32 V 728 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-15" />
+    <path
+       id=""
+       d="m 432,480 h 168 l 32,32 -32,32 H 432 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-14" />
+    <path
+       id=""
+       d="m 168,480 h 168 l 32,32 -32,32 H 168 l -32,-32 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-13" />
+    <path
+       id=""
+       d="m 616,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-12" />
+    <path
+       id=""
+       d="M 432,416 552,296 h 48 v 48 L 480,464 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-11" />
+    <path
+       id=""
+       d="m 352,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-10" />
+    <path
+       id=""
+       d="m 216,296 120,120 v 48 H 288 L 168,344 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-9" />
+    <path
+       id=""
+       d="m 88,296 h 64 v 168 l -32,32 -32,-32 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-8" />
+    <path
+       id=""
+       d="m 616,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-7" />
+    <path
+       id=""
+       d="m 480,112 120,120 v 48 H 552 L 432,160 v -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-6" />
+    <path
+       id=""
+       d="m 352,112 32,-32 32,32 v 168 h -64 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-5" />
+    <path
+       id=""
+       d="M 168,232 288,112 h 48 v 48 L 216,280 h -48 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-4" />
+    <path
+       id=""
+       d="m 88,112 32,-32 32,32 V 280 H 88 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="seg-3" />
+    <path
+       id=""
+       d="m 432,32 h 168 l 32,32 -32,32 H 432 L 400,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-2" />
+    <path
+       id=""
+       d="m 168,32 h 168 l 32,32 -32,32 H 168 L 136,64 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="seg-1" />
+  </g>
+</svg>
